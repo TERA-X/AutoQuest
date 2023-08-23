@@ -1,0 +1,15 @@
+{
+    "name": "Auto-Guildquest",
+    "options": {
+        "niceName": "Auto-Guildquest",
+        "guiName": "Auto-Guildquest",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "PsykoDev/ Maintainer KYGAS",
+    "description": "Auto-Guildquest",
+    "version": "100.02",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/Auto-Quest/master/"],
+    "disableAutoUpdate": false
+}
