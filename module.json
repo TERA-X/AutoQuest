@@ -10,6 +10,6 @@
     "author": "PsykoDev/ Maintainer KYGAS",
     "description": "Auto-Guildquest",
     "version": "100.02",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/Auto-Quest/master/"],
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/AutoQuest/master/"],
     "disableAutoUpdate": false
 }
